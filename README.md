@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Anastasia and i am a Frontend Developer in training 😄 Currently a fourth year Software Engineering student at RTU Mirea.
+
+## My stack:
+<i class="devicon-react-original-wordmark colored"></i> <i class="devicon-javascript-plain colored"></i> <i class="devicon-css3-plain-wordmark"></i> <i class="devicon-html5-plain-wordmark colored"></i> <i class="devicon-git-plain-wordmark"></i>
+
+## Contact info:
+- telegram: @qurmathe
