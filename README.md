@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My name is Anastasia and i am a Frontend Developer in training 😄 Currently a fourth year Software Engineering student at RTU Mirea.
 
 ## My stack:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height='40' width='40'/> <i class="devicon-javascript-plain colored"></i> <i class="devicon-css3-plain-wordmark"></i> <i class="devicon-html5-plain-wordmark colored"></i> <i class="devicon-git-plain-wordmark"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height='80' width='80'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height='80' width='80'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height='80' width='80'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height='80' width='80'/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" height='80' width='80'/> 
 
 ## Contact info:
 - telegram: @qurmathe
